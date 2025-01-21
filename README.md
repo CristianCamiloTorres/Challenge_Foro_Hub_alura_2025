@@ -60,9 +60,6 @@ Abre tu navegador y visita  http:localhost:8080 para comenzar a usar la API. �
 * Asegúrate de tener instalado Maven y una base de datos MySQL.
 * Revisa la documentación de la API en `http:localhost:8080/swagger-ui/index.html` para conocer los endpoints disponibles.
 
-## Contacto 🤝
-
-¡Me encantaría estar en contacto contigo! Puedes encontrarme en:
 
 
 
