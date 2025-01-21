@@ -64,11 +64,7 @@ Abre tu navegador y visita  http:localhost:8080 para comenzar a usar la API. �
 
 ¡Me encantaría estar en contacto contigo! Puedes encontrarme en:
 
-* **Discord:** alonsopb 🎧
-* **LinkedIn:** [Alonso Dev](https://www.linkedin.com/in/alonso-dev/) 💼
-* **Correo electrónico:** [alonsodev.ga@gmail.com](mailto:alonsodev.ga@gmail.com) ✉️
 
-No dudes en contactarme si tienes alguna pregunta, sugerencia o simplemente quieres saludar. 👋
 
 
 
